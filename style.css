@@ -1,0 +1,71 @@
+.color-grey{
+    background-color:lightgray
+}
+.color-white { 
+    background-color:white;
+}
+
+.fa {
+    padding: 1px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 4px;
+  }
+  
+a {
+    color:black;
+}
+
+button {
+    border:solid black 1px;
+}
+
+.parent1 {
+    position: relative;
+}
+
+.child1 {
+    position: relative;
+    left: 250px;
+    top: -75px;
+}
+
+.child2 {
+    position: relative;
+    left: 15px;
+    top: -10px;
+    color: white;
+}
+
+.child3 {
+    position: relative;
+    top: -250px
+}
+
+.child4 {
+    position: relative;
+    top: -132px
+}
+
+.fa-facebook {
+    background: lightgray;
+    color: white;
+}
+  
+.fa-twitter {
+    background: lightgray;
+    color: white;
+}
+  
+.fa-google {
+    background: lightgray;
+    color: white;
+}
+  
+.fa-instagram {
+    background: lightgray;
+    color: white;
+}
+  
